@@ -2,6 +2,7 @@ name: DRsocial
 favicon: null
 layout_spectrum: 0.9148907749913633
 typography_spectrum: 0.7596910623833537
+title: TSO
 cta:
   domain: null
   bucket: null
